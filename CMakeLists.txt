@@ -3,4 +3,4 @@ project(dataStuctureNespa)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dataStuctureNespa chapter6/boardcover.cpp)
+add_executable(dataStuctureNespa )
