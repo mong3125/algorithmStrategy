@@ -3,4 +3,5 @@ project(dataStuctureNespa)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dataStuctureNespa basicAlgorithm/mergeSort.cpp)
+
+add_executable(dataStuctureNespa )
