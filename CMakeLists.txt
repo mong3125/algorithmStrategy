@@ -3,4 +3,4 @@ project(dataStuctureNespa)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dataStuctureNespa chapter7/fence.cpp)
+add_executable(dataStuctureNespa chapter7/fanMeeting.cpp)
